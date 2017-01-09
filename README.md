@@ -7,3 +7,6 @@ https://www.dunebook.com/create-you-own-cms-on-the-mean-stack-with-angularjs-fro
 
 Start redis:
 /Library/redis-3.2.5/src/redis-server
+
+MySql stop start
+sudo /usr/local/mysql/support-files/mysql.server start
